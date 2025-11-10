@@ -102,7 +102,9 @@ Users sign a challenge with their private key for authentication.
 
 The smart contract verifies signatures to confirm identity.
 
+# Output : 
 
+<img width="1427" height="936" alt="image" src="https://github.com/user-attachments/assets/1c66e30d-469d-40ea-b559-9dbc5ec970a7" />
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
@@ -114,3 +116,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus the code is compiled and the output is verified.
